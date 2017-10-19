@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#fundo{
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+#topo{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    background-color: red;
+}
+
+.logo{
+    max-width: 40px;
+}
